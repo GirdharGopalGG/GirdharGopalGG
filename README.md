@@ -1,6 +1,6 @@
 ## Hi there, I'm Girdhar👋
 - 🌱 I’m learning about scaling backend
-- 💬 Tell me about anything, I'm a great at listening   
+- 💬 Tell me about anything, I'm great at listening   
 - ⚡ Fun fact: I like to play chess even when I lose ♟️
 
 
