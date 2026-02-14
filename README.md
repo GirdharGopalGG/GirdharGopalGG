@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Girdhar👋
+- 🌱 I’m learning about scaling backend
+- 💬 Tell me about anything, I'm a great listener   
+- ⚡ Fun fact: I like to play chess even when I lose ♟️
+---
+## Languages and Tools:
+### Programming Languages
+[![Programming Languages](https://skillicons.dev/icons?i=js,ts,cpp&theme=dark)](https://skillicons.dev)
+### Frontend Development
+[![Frontend Development](https://skillicons.dev/icons?i=react,tailwind,nextjs&theme=dark)](https://skillicons.dev)
+### Backend Development
+[![Backend Development](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma&theme=dark)](https://skillicons.dev)
 
-<!--
-**GirdharGopalGG/GirdharGopalGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### Socials
+[![Github](https://skillicons.dev/icons?i=twitter)](https://x.com/GirdharGop)
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/GirdharGopalGG)     ![Visitor Count](https://komarev.com/ghpvc/?username=GirdharGopalGG&color=blue)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My Stats](https://github-readme-stats-nu-ten-16.vercel.app/api?username=GirdharGopalGG&show_icons=true&locale=en)
