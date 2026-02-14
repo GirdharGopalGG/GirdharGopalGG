@@ -1,8 +1,9 @@
 ## Hi there, I'm Girdhar👋
 - 🌱 I’m learning about scaling backend
-- 💬 Tell me about anything, I'm a great listener   
+- 💬 Tell me about anything, I'm a great at listening   
 - ⚡ Fun fact: I like to play chess even when I lose ♟️
----
+
+
 ## Languages and Tools:
 ### Programming Languages
 [![Programming Languages](https://skillicons.dev/icons?i=js,ts,cpp&theme=dark)](https://skillicons.dev)
